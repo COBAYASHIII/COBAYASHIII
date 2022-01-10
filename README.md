@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @COBAYASHIII
 - 👀 I’m interested in Flutter/Firebase/GCP
 - 🌱 I’m currently learning Architecture pattern
-- 💞️ I’m looking to collaborate on any App Developer
+- 💞️ I’m looking to collaborate on ANY APP DEVELOPER
 - 📫 How to reach me "a19.d3ay@g.chuo-u.ac.jp"
 
 <!---
